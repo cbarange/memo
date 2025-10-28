@@ -1,8 +1,8 @@
 # Backup Managment with a MySQL
-[![ViewCount](https://views.whatilearened.today/views/github/cbarange/memo-backup-managment-with-a-mysql.svg)](https://views.whatilearened.today/views/github/cbarange/memo-backup-managment-with-a-mysql.svg)
-
 > cbarange | 3th Feb 2022
 ---
+
+[![ViewCount](https://views.whatilearened.today/views/github/cbarange/memo-backup-managment-with-a-mysql.svg)](https://views.whatilearened.today/views/github/cbarange/memo-backup-managment-with-a-mysql.svg)
 
 > You will need gen-backup.sh and obfuscate.sql file to run to generate the normal and the obfuscate backup. Please found them in this folder. 
 
