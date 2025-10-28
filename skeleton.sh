@@ -105,7 +105,7 @@ _main() {
         case $arg in
             --debug)
                 LOGGING="DEBUG"
-                info "mode debug enable, to disable it remove --debug or unset environnement variable LOGGING=''"
+                info "mode debug enable, to disable it remove --debug"
                 shift
             ;;
             --version)
